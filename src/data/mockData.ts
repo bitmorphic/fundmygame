@@ -91,7 +91,7 @@ export const athletes: Athlete[] = [
   },
   {
     id: "3",
-    name: "Harsha",
+    name: "Harsha Jain",
     sport: "Weightlifting",
     state: "Manipur",
     city: "Imphal",
